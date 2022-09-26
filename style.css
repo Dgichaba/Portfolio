@@ -3,7 +3,6 @@
         margin: 0;
         padding: 0;
 }
-
 .container{
         /* height:100vh; */
         width: 100%;
@@ -17,7 +16,6 @@
         position: absolute;
         min-height: 100%;
 }
-
 .navbar{
         width:100%;
         height: 15vh;
@@ -32,8 +30,6 @@
         height: 80%;
         cursor: pointer;
 }
-
-
 nav ul li{
         display: inline-block;
         list-style:none;
@@ -45,13 +41,10 @@ nav ul li a{
         text-align:center;
         color: whitesmoke;
         align-content:center
-
 }
 .active, a:hover{
         background: rgb(115, 113, 113);
         transition: .5s;
-        
-
 }
 .content h1{ 
         font-size: 40px;
@@ -76,8 +69,7 @@ nav ul li a{
         margin-bottom: 20px;
         text-align: left;
         color: white;
-        width: fit-content;
-       
+        width: fit-content;     
 }
 .content ol{
         font-size: 20px;
