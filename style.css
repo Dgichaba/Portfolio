@@ -98,4 +98,9 @@ nav ul li a{
 .important{
         color: blue;
 }
+.sidebar {
+        width: 10%;
+        float:left;
+        
+}
 
