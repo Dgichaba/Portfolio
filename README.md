@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Portfolio
-=======
 # My Portfolio
-
 #### Authored By : **Dorothy Gichaba**
 ## Description
 This repository contains my personal portfolio which was created with the help of my instructor Mark.
@@ -24,4 +20,4 @@ Dorothy Gichaba
 https://dgichaba.github.io/Portfolio/
 ## Licence Information
 Distributed under the MIT License. See License.txt for more information.
->>>>>>> master
+
