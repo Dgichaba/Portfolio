@@ -4,6 +4,7 @@
         padding: 0;
 }
 .container{
+        /* height:100vh; */
         width: 100%;
         background-image:url(images/background.jpg); 
         background-position: center;
@@ -99,9 +100,10 @@ nav ul li a{
 }
 .sidebar {
         width: 10%;
-        float:left;
-        margin-top: -354px;
-        margin-right: 275px;
+        float:right;
+        margin-top: -380px;
+        margin-right:600px;
         
 }
+
 
